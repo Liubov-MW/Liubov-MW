@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Liubov!
 
-<!--
-**Liubov-MW/Liubov-MW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Python Developer | Manual QA Learner | SAP MM/SD Experience
 
-Here are some ideas to get you started:
+I'm based in Germany and currently learning software development and software testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Several years of professional experience with SAP MM/SD and logistics
+- Experience in SAP troubleshooting and supporting colleagues
+- Currently learning Python, Git/GitHub and Manual QA
+- Developing my own project: Deutsch AI
+- Languages: Ukrainian, German (B1, working towards B2), English (beginner)
+
+## My Project: Deutsch AI
+
+[Deutsch AI on GitHub](https://github.com/Liubov-MW/deutsch-ai)
+
+I'm building a multilingual German-learning application.
+
+Planned features:
+- Vocabulary and grammar exercises
+- Spaced repetition (SRS)
+- Learning progress tracking
+- AI-assisted explanations
+- German exam preparation
+
+Current focus: Python fundamentals and vocabulary functionality.
+
+## Professional Experience
+
+SAP MM/SD | Logistics | Business Processes | Error Analysis | User Support
+
+## Über mich
+
+Ich lebe in Deutschland und entwickle meine Kenntnisse in Python und Software Testing weiter.
+
+Ich habe mehrjährige Berufserfahrung mit SAP MM/SD, Logistikprozessen, Fehleranalyse und Anwenderunterstützung.
+
+Zurzeit entwickle ich mein eigenes Lernprojekt Deutsch AI.
+
+Mein berufliches Ziel ist der Einstieg in die Softwareentwicklung oder Softwarequalitätssicherung in Deutschland.
+
+## Let's Connect
+
+I'm open to junior opportunities, practical experience and collaboration in software development and testing.
